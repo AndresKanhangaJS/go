@@ -1,0 +1,3 @@
+# Full Cycle Rocks - Docker + Go
+
+Este é um projeto do primeiro desafio do curso fullcycle do modulo de DOCKER que demonstra como criar uma imagem Docker para um aplicativo Go.

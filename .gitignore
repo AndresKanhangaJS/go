@@ -1,0 +1,19 @@
+# Binários
+/go
+
+# Arquivos do Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker
+docker-compose.yml
+.env
