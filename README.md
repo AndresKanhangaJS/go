@@ -4,4 +4,4 @@ Este é um projeto do primeiro desafio do curso fullcycle do modulo de DOCKER qu
 
 Link da Imagem no DOcker Hub
 
-avk10/fullcycle
+https://hub.docker.com/repository/docker/avk10/fullcycle/general
